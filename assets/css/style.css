@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Montserrat:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family:'Montserrat', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a
+}
+
+/* Heading and Logo */
+
+#logo {
+    float: left;
+    margin-left: 60px;
+    height: 91px;
+    width: 68px;
+}
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 60px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #af8e38
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #af8e38;
+}
+
+.active {
+    border-bottom: 1px solid #af8e38;
+}
