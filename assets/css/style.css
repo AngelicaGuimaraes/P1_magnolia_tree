@@ -55,15 +55,15 @@ body {
 /* Hero image and hero image text */
 
 #hero-banner {
-    height: 400px;
+    height: 500px;
     width: 100%;
-    background-color: palevioletred;
     overflow: hidden;
     position: relative;
 }
 
 #hero-image {
-    height: 400px;
+    height: 500px;
     width: 100%;
-    background: url('../images/magnolia_hero_image.png') no-repeat center center;
+    background: url("../images/magnolia_hero_image.png") no-repeat center center;
+    background-size: 100%;
 }
