@@ -66,8 +66,9 @@ body {
 #hero-image {
     height: 400px;
     width: 100%;
-    background: url("../images/hero_image.png") no-repeat center center;
+/*    background: url("../images/hero_image.png") no-repeat center center;
     background-size: 100%;
+*/
 }
 
 #hero-image-text {
@@ -87,11 +88,19 @@ body {
 }
 
 #hero-image-text h1,h3 {
-    color: white;
+    color: #af8e38
 }
-
+    
 #hero-image-text h3 {
     font-size: 50%;
     font-family: 'Cormorant Garamond', serif;
     margin-top: -5px;
+}
+
+/* About Us */
+
+#about-us h2 {
+    font-weight: 100;
+    text-align: center;
+
 }
