@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Montserrat:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Montserrat:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -19,13 +19,13 @@ body {
     float: left;
     margin-left: 60px;
     height: 137px;
-    width: 103px;
+    width: 97px;
 }
 
 /* navigation links */
 
 #menu {
-    font-size: 100%;
+    font-size: 1.5vw;
     margin-right: 20px;
 }   
 
@@ -69,8 +69,8 @@ body {
 }
 
 #hero-image-text {
-    font-size: 180%;
-    font-weight:bolder;
+    font-size: 2.5vw;
+    font-weight:bold;
     font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -84,12 +84,12 @@ body {
     position: absolute;
 }
 
-#hero-image-text h1,h3 {
+#hero-image-text h1 {
     color: #D1AA91;
 }
     
 #hero-image-text h3 {
-    font-size: 50%;
+    font-size: 1vw;
     font-family: 'Cormorant Garamond', serif;
     margin-top: -5px;
     color: #b27647;
@@ -98,6 +98,7 @@ body {
 /* About Us */
 
 #about-us h2 {
+    font-family: "Montserrat", sans-serif;
     font-weight: 100;
     text-align: center;
 
