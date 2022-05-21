@@ -63,13 +63,13 @@ body {
     position: relative;
     background-color: blueviolet;
 }
-/*
+
 #hero-image {
-    height: 400px;
+    height: auto;
     width: 100%;
     position: relative;
 }
-*/
+
 #hero-image-text {
     font-size: 2.5vw;
     font-weight:bold;
