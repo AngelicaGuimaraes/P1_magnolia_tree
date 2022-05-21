@@ -56,7 +56,7 @@ body {
 /* Hero image and hero image text */
 
 #hero-banner {
-    height: 400px;
+    height: auto;
     width: 100%;
     overflow: hidden;
 
