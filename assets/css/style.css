@@ -61,13 +61,15 @@ body {
     overflow: hidden;
 
     position: relative;
+    background-color: blueviolet;
 }
-
+/*
 #hero-image {
     height: 400px;
     width: 100%;
+    position: relative;
 }
-
+*/
 #hero-image-text {
     font-size: 2.5vw;
     font-weight:bold;
@@ -91,15 +93,40 @@ body {
 #hero-image-text h3 {
     font-size: 1vw;
     font-family: 'Cormorant Garamond', serif;
-    margin-top: -5px;
+    margin-top: auto;
     color: #b27647;
 }
 
 /* About Us */
 
-#about-us h2 {
-    font-family: "Montserrat", sans-serif;
-    font-weight: 100;
-    text-align: center;
+#about-us {
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+}
 
+.our-mission {
+    width: 60%;
+    height: auto;
+    text-align:left;
+    margin: 0 auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: chartreuse;
+}
+
+#about-us h2 {
+    font-family: 'Cormorant Garamond', serif;
+    text-transform: capitalize;
+    font-size: 2.5vw;
+    color: #b27647;
+    font-weight: bold;
+    text-align: center;
+    background-color: blue;
+}
+
+#about-us p {
+    font-family: 'Montserrat', sans-serif;
+    color: #3a3a3a;
+    background-color: coral;
 }
