@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;800&display=swap');
 
 * {
     margin: 0;
@@ -13,7 +12,25 @@ body {
     color: #3a3a3a
 }
 
-/* Heading and Logo */
+h1 {
+    font-weight: 800;
+    font-size: 180%;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 180%;
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 130%;
+    letter-spacing: 2px;
+}
+
+/* Header and Logo */
 
 #logo {
     float: left;
