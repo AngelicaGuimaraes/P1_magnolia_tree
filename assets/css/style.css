@@ -86,7 +86,7 @@ header {
     width: 100%;
     overflow: hidden;
     position: relative;
-    background-color: blueviolet;
+/*    background-color: blueviolet; */
 }
 
 #hero-image {
@@ -120,7 +120,7 @@ header {
 #about-us {
     width: 100%;
     height: auto;
-    background-color: aqua;
+/*    background-color: aqua; */
 }
 
 .our-mission {
@@ -128,13 +128,13 @@ header {
     height: auto;
     text-align:left;
     margin: 0 auto;
-    padding-top: 3%;
+    padding-top: 1%;
     padding-bottom: 3%;
-    background-color: chartreuse;
+/*    background-color: chartreuse; */
 }
 
 #about-us h2 {
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-size: 1.8vw;
     color: #b27647;
     text-align: center;
@@ -143,6 +143,22 @@ header {
 
 #about-us p {
     font-size: 1.2vw;
+    letter-spacing: 1px;
     color: #3a3a3a;
+    padding: 0 15%
 /*    background-color: coral; */
+}
+
+#about-section {
+    width: 100%;
+    height: auto;
+    background-color: blueviolet;
+}
+
+#yoga {
+    background-color: deeppink;
+}
+
+#meditation {
+    background-color: azure;
 }
