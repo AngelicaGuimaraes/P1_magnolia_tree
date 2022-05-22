@@ -14,7 +14,7 @@ body {
 
 h1 {
     font-weight: 800;
-    font-size: 180%;
+    font-size: 260%;
     letter-spacing: 2px;
 }
 
@@ -96,7 +96,7 @@ header {
 }
 
 #hero-image-text {
-    font-size: 2.5vw;
+    
     font-weight:bold;
     font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
