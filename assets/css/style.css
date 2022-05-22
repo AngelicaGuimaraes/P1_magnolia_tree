@@ -32,6 +32,8 @@ h3 {
 
 p {
     letter-spacing: 1px;
+    font-size: 1.2vw;
+    color: #3a3a3a;
 }
 
 /* header and logo */
@@ -158,10 +160,18 @@ header {
     background-color: blueviolet;
 }
 
-#yoga {
+#about-yoga-header {
     background-color: deeppink;
 }
 
-#meditation {
-    background-color: azure;
+#about-yoga-content {
+    background-color: blanchedalmond;
+}
+
+#about-meditation-header {
+    background-color:chartreuse;
+}
+
+#about-meditation-content {
+    background-color: bisque;
 }
