@@ -158,15 +158,15 @@ header {
 
 #about-section {
     width: 100%;
-    height: 660px;
+    height:700px;
 /*    background-color: blueviolet; */
 }
 
 #about-section-content {
-    height: 660px;
+    height: 700px;
     background-color: #F7E4E6;
     text-align: center;
-    padding: 20px 50px 20px 50px;
+    padding: 30px 50px 20px 50px;
 }
 
 .about-image {
@@ -222,10 +222,11 @@ header {
 /* footer */
 
 footer {
-    height: 200px;
+    height: 175px;
     text-align: center;
     clear: both;
     background-color: #D1AA91;
+    padding-bottom: 10px;
 }
 
 .social-networks {
