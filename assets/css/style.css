@@ -135,15 +135,14 @@ header {
 
 #about-us h2 {
     text-transform: capitalize;
-    font-size: 2vw;
+    font-size: 1.8vw;
     color: #b27647;
-    font-weight: bold;
     text-align: center;
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 #about-us p {
-    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2vw;
     color: #3a3a3a;
-    background-color: coral;
+/*    background-color: coral; */
 }
