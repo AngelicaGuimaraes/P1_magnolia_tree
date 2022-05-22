@@ -30,12 +30,13 @@ h3 {
     letter-spacing: 2px;
 }
 
-/* Header and Logo */
+/* header and logo */
 
 header {
     background-color: #ffffff;
-    height: auto;
+    height: 80px;
     width: 100%;
+    margin-top: -80px;
     position: fixed;
     z-index: 5;
 }
@@ -76,9 +77,10 @@ header {
     border-bottom: 1px solid #af8e38;
 }
 
-/* Hero image and hero image text */
+/* hero image section */
 
-#hero-banner {
+#hero-image-section {
+    margin-top: 80px;
     height: auto;
     width: 100%;
     overflow: hidden;
