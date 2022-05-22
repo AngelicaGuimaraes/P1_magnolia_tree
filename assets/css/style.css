@@ -42,7 +42,6 @@ h3 {
 /* navigation links */
 
 #menu {
-    font-size: 1.5vw;
     margin-right: 20px;
 }   
 
@@ -50,11 +49,10 @@ h3 {
     float: right;
     list-style-type: none;
     margin-right: 40px;
-    margin-top: -25px;
 }
 
 #menu, #logo {
-    line-height: 150px;
+    line-height: 75px;
 }
 
 #menu a {
