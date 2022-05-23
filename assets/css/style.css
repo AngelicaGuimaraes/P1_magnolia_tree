@@ -158,12 +158,10 @@ header {
 
 #about-section {
     width: 100%;
-    height:700px;
 /*    background-color: blueviolet; */
 }
 
 #about-section-content {
-    height: 700px;
     background-color: #F7E4E6;
     text-align: center;
     padding: 30px 50px 20px 50px;
@@ -173,14 +171,20 @@ header {
     width: 250px;
 }
 
+.about {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
 #left-about {
-    float: left;
-    width: 50%;
+/*    float: left; */
+    width: 45%;
 }
 
 #right-about {
-    float: right;
-    width: 50%;
+/*    float: right; */
+    width: 45%;
 }
 
 #about-yoga-header {
@@ -222,7 +226,7 @@ header {
 /* footer */
 
 footer {
-    height: 175px;
+    height: 150px;
     text-align: center;
     clear: both;
     background-color: #D1AA91;
