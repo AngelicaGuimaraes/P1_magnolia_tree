@@ -167,7 +167,7 @@ header {
 
 .about {
     display: inline-block;
-/*    vertical-align: middle; */
+    vertical-align: middle;
     
 }
 
@@ -231,4 +231,36 @@ footer {
     font-size: 160%;
     padding: 60px;
     color: white;
+}
+
+
+/* for larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+
+    #about-section-content {
+        background-color: #F7E4E6;
+        text-align: center;
+        padding: 0 50px 30px 50px;
+    }
+
+    .about {
+        display: inline-block;
+        vertical-align: top;      
+    }
+
+}
+
+/* for medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+    #about-section-content {
+        background-color: #F7E4E6;
+        text-align: center;
+        padding: 0 50px 30px 50px;
+    }
+
+    .about {
+        display: inline-block;
+        vertical-align: top;      
+    }
 }
