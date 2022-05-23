@@ -92,7 +92,6 @@ header {
     width: 100%;
     overflow: hidden;
     position: relative;
-/*    background-color: blueviolet; */
 }
 
 #hero-image {
@@ -118,7 +117,7 @@ header {
 #hero-image-text h3 {
     font-size: 1vw;
     margin-top: auto;
-    color: /* #D1AA91 */ white;
+    color: #ffffff;
 }
 
 /* About Us */
@@ -126,7 +125,6 @@ header {
 #about-us {
     width: 100%;
     height: auto;
-/*    background-color: aqua; */
 }
 
 .our-mission {
@@ -136,7 +134,6 @@ header {
     margin: 0 auto;
     padding-top: 1%;
     padding-bottom: 3%;
-/*    background-color: chartreuse; */
 }
 
 #about-us h2 {
@@ -144,21 +141,18 @@ header {
     font-size: 1.8vw;
     color:#D1AA91;
     text-align: center;
-    /* background-color: blue; */
 }
 
 #about-us p {
     font-size: 1.2vw;
     color: #3a3a3a;
     padding: 0 15%
-/*    background-color: coral; */
 }
 
 /* about section */
 
 #about-section {
     width: 100%;
-/*    background-color: blueviolet; */
 }
 
 #about-section-content {
@@ -173,17 +167,15 @@ header {
 
 .about {
     display: inline-block;
-    vertical-align: middle;
+/*    vertical-align: middle; */
     
 }
 
 #left-about {
-/*    float: left; */
     width: 45%;
 }
 
 #right-about {
-/*    float: right; */
     width: 45%;
 }
 
@@ -193,7 +185,6 @@ header {
     color:#D1AA91;
     text-align: center;
     margin-top: 10px;
-/*    background-color: deeppink; */
 }
 
 #about-yoga-content {
@@ -202,7 +193,6 @@ header {
     padding: 0 20%;
     text-align: center;
     margin: -10px 10px 10px 10px;
-/*    background-color: blanchedalmond; */
 }
 
 #about-meditation-header {
@@ -211,7 +201,6 @@ header {
     color:#D1AA91;
     text-align: center;
     margin-top: 10px;
-/*    background-color:chartreuse; */
 }
 
 #about-meditation-content {
@@ -220,7 +209,6 @@ header {
     padding: 0 20%;
     text-align: center;
     margin:-10px 10px 10px 10px;
-/*    background-color: bisque; */
 }
 
 /* footer */
@@ -228,9 +216,7 @@ header {
 footer {
     height: 150px;
     text-align: center;
-    clear: both;
     background-color: #D1AA91;
-    padding-bottom: 10px;
 }
 
 .social-networks {
@@ -243,7 +229,7 @@ footer {
 
 .social-networks i {
     font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+/*    margin: 1%; */
+    padding: 60px;
     color: white;
 }
