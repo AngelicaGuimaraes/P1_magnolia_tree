@@ -296,23 +296,19 @@ footer {
     background-color: #F7E4E6;
     text-align: center;
     padding: 10px 50px 20px 50px;
+    background-color: aquamarine;
 }
-
-/* .about-image {
-    width: 250px;
-}
-*/
 
 .classes {
     display: inline-block;
     vertical-align: middle;  
 }
 
-#yoga-classes {
+#time-yoga-classes {
     width: 45%;
 }
 
-#meditation {
+#time-meditation-groups {
     width: 45%;
 }
 
