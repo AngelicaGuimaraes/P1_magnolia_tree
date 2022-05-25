@@ -302,7 +302,7 @@ th:nth-child(even),td:nth-child(even) {
   }
 
 table {
-    width: 90%;
+    width: 100%;
     font-size: 1vw;
 }
 
@@ -311,7 +311,7 @@ th {
 }
 
 tr {
-    height: 35px;
+    height: 30px;
 }
 
 #time-section {
@@ -325,8 +325,11 @@ tr {
 }
 
 .classes {
-    display: inline-block;
-    vertical-align: middle;  
+/*    display: inline-block;
+    vertical-align: middle;  */
+    width: auto;
+    margin: auto;
+    padding: 10px 0px 20px 0px;
 }
 
 #time-yoga-classes {
