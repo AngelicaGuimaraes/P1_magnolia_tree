@@ -303,6 +303,7 @@ th:nth-child(even),td:nth-child(even) {
 
 table {
     width: 100%;
+    font-size: 1vw;
 }
 
 th {
@@ -310,7 +311,7 @@ th {
 }
 
 tr {
-    height: 25px;
+    height: 35px;
 }
 
 #time-section {
