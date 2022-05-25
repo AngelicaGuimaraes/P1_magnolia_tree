@@ -36,6 +36,10 @@ p {
     color: #3a3a3a;
 }
 
+span {
+    color: #D1AA91;
+    font-weight: bold;
+}
 /* header and logo */
 
 header {
@@ -304,6 +308,7 @@ th:nth-child(even),td:nth-child(even) {
 table {
     width: 100%;
     font-size: 1vw;
+    background-color: white;
 }
 
 th {
@@ -329,7 +334,8 @@ tr {
     vertical-align: middle;  */
     width: auto;
     margin: auto;
-    padding: 10px 0px 20px 0px;
+    padding: 10px 0px 50px 0px;
+/*    background-color: white */
 }
 
 #time-yoga-classes {
@@ -372,6 +378,14 @@ tr {
     margin:-10px 10px 10px 10px;
 }
 */
+
+#choose-your-class {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color:#D1AA91;
+    text-align: center;
+    margin-top: 50px;
+}
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
