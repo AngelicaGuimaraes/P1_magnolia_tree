@@ -333,11 +333,11 @@ tr {
 }
 
 #time-yoga-classes {
-    width: 45%;
+    width: 80%;
 }
 
 #time-meditation-groups {
-    width: 45%;
+    width: 80%;
 }
 
 #yoga-classes-header {
@@ -372,13 +372,6 @@ tr {
     margin:-10px 10px 10px 10px;
 }
 */
-
-/* meditation time table */
-
-
-
-
-
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
