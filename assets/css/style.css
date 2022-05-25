@@ -293,13 +293,25 @@ table, th, td {
     border-collapse: collapse;
   }
   
-  tr:nth-child(even) {
-    background-color: rgba(150, 212, 212, 0.4);
+tr:nth-child(even) {
+    background-color: rgb(148, 170, 211, 0.4);
   }
   
-  th:nth-child(even),td:nth-child(even) {
-    background-color: rgba(150, 212, 212, 0.4);
+th:nth-child(even),td:nth-child(even) {
+    background-color: rgb(148, 170, 211, 0.4);
   }
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 40px;
+}
+
+tr {
+    height: 25px;
+}
 
 #time-section {
     width: 100%;
@@ -331,7 +343,7 @@ table, th, td {
     text-align: center;
     margin-top: 10px;
 }
-
+/*
 #yoga-classes-content {
     font-size: 1.2vw;
     color: #3a3a3a;
@@ -339,7 +351,7 @@ table, th, td {
     text-align: center;
     margin: -10px 10px 10px 10px;
 }
-
+*/
 #meditation-classes-header {
     text-transform: uppercase;
     font-size: 1.8vw;
