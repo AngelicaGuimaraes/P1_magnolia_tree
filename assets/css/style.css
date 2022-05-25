@@ -387,6 +387,12 @@ tr {
     margin-top: 50px;
 }
 
+span a {
+    text-decoration: none;
+    color: #D1AA91;
+    font-weight: bold;
+}
+
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
