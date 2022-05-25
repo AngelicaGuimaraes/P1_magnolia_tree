@@ -302,7 +302,7 @@ th:nth-child(even),td:nth-child(even) {
   }
 
 table {
-    width: 100%;
+    width: 90%;
     font-size: 1vw;
 }
 
@@ -360,7 +360,7 @@ tr {
     text-align: center;
     margin-top: 10px;
 }
-
+/*
 #meditation-classes-content {
     font-size: 1.2vw;
     color: #3a3a3a;
@@ -368,6 +368,14 @@ tr {
     text-align: center;
     margin:-10px 10px 10px 10px;
 }
+*/
+
+/* meditation time table */
+
+
+
+
+
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
