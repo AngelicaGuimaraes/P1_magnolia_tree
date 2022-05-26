@@ -407,6 +407,43 @@ span a {
     position: relative;
 }
 
+/* contact form section */
+
+#contact-form-section {
+    width: 100%;
+    height: auto;
+}
+
+.contact {
+    width: 60%;
+    height: auto;
+    text-align:left;
+    margin: 0 auto;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+#contact-form-section h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3.4vw;
+    color: #D1AA91;
+}
+
+#contact-form-section h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color:#D1AA91;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#contact-form-section p {
+    font-size: 1.2vw;
+    color: #3a3a3a;
+    padding: 0 15%
+}
+
 
 
 /* for larger to medium screens size from 1200px wide and down */
