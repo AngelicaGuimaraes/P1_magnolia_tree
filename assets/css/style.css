@@ -40,6 +40,7 @@ span {
     color: #D1AA91;
     font-weight: bold;
 }
+
 /* header and logo */
 
 header {
@@ -330,12 +331,9 @@ tr {
 }
 
 .classes {
-/*    display: inline-block;
-    vertical-align: middle;  */
     width: auto;
     margin: auto;
     padding: 10px 0px 50px 0px;
-/*    background-color: white */
 }
 
 #time-yoga-classes {
@@ -392,6 +390,24 @@ span a {
     color: #D1AA91;
     font-weight: bold;
 }
+
+/* contact page */
+
+#contact-hero-image-section {
+    margin-top: 80px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#contact-hero-image {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
