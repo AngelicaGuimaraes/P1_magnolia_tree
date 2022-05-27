@@ -415,8 +415,7 @@ span a {
 
 #contact-form-section {
     width: 100%;
-    height: auto;
-    margin-bottom: 50px;
+    height: auto;       
 }
 
 .contact {
@@ -443,11 +442,15 @@ span a {
     margin-top: 10px;    
 }
 
+#contact-form-div {
+    width: 100%;    
+}
+
 #contact-form {
     background-color: #F7E4E6;
     text-align: left;
     padding: 10px 50px 20px 50px;
-    width: 25%;
+    width: 30%;
     margin: 0 auto;
 }
 
@@ -494,6 +497,68 @@ span a {
     vertical-align: middle;
     margin-right: 20px;
 }
+
+/* contact details section */
+
+#details-div {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;    
+    background-color: #F7E4E6;
+    padding-top: 20px;
+}
+
+#contact-wrapper {
+    background-color: #F7E4E6;
+    text-align: center;
+    padding: 30px 50px 30px 50px;
+}
+
+#contact-div {
+    width: 45%;
+    text-align: center;    
+}
+
+#contact-div li {
+    list-style: none;
+}
+
+#contact-div ul {
+    width: 80%;
+    height: auto;
+    text-align: left;
+}
+
+.contact-details h3 {
+    color: #D1AA91;
+    text-decoration: underline;
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+.contact-details p {
+    font-size: 80%;
+}
+
+/* map section */
+#map-div {
+    width: 45%;
+    
+}
+
+#gmap {
+    width: 80%;
+    height: auto;
+    /*width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade" */
+}
+
+.contact-details {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
