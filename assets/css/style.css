@@ -515,8 +515,7 @@ span a {
 }
 
 #contact-div {
-    width: 45%;
-    text-align: center;    
+    width: 45%;        
 }
 
 #contact-div li {
@@ -524,9 +523,8 @@ span a {
 }
 
 #contact-div ul {
-    width: 80%;
-    height: auto;
-    text-align: left;
+    width: 80%;    
+    text-align: center;
 }
 
 .contact-details h3 {
@@ -547,10 +545,7 @@ span a {
 }
 
 #gmap {
-    width: 80%;
-    height: auto;
-    /*width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
-                    referrerpolicy="no-referrer-when-downgrade" */
+    width: 100%;    
 }
 
 .contact-details {
