@@ -553,6 +553,57 @@ span a {
     vertical-align: middle;
 }
 
+/* thank you page */
+
+#thankyou-hero-image-section {
+    margin-top: 80px;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#thankyou-hero-image {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+#thankyou-section{
+    width: 100%;
+    height: auto;
+}
+
+.thankyou {
+    width: 60%;
+    height: auto;
+    text-align:center;
+    margin: 0 auto;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+#thankyou-section h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3.4vw;
+    color: #D1AA91;
+}
+
+#thankyou-section h2 {
+    text-transform: uppercase;
+    font-size: 1.8vw;
+    color:#D1AA91;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#thankyou-section p {
+    font-size: 1.2vw;
+    color: #3a3a3a;
+    padding: 0 15%
+}
+
 
 
 /* for larger to medium screens size from 1200px wide and down */
