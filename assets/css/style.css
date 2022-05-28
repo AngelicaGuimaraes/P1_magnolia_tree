@@ -569,7 +569,7 @@ span a {
     position: relative;
 }
 
-#thankyou-section{
+#thankyou-section {
     width: 100%;
     height: auto;
 }
@@ -604,7 +604,7 @@ span a {
     padding: 0 15%
 }
 
-
+/* media queries */
 
 /* for larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
