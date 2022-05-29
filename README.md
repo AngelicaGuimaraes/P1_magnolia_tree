@@ -206,17 +206,16 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
 ![Contact Form Section](/assets/images/readme-images/10-screenshot-contact-form.png)
 
-  - The section contains a registration form and contact details to NTS. It also has a map that displays the location to NTS.
-  - The purpose of this section is to make contact and registration as easy as possible. The User uses the form to sign up as a member or to register interest. In order to establish direct contact as easy as possible the section also provides the User with a telephone number and an email. If the form is used in this version it sends the User to a form-dump page with a message.
+#### Contact Details Section
 
-![Contact and Registration Section](/assets/images/readme-images/contact-registration-section.jpg)
+  - The Contact Details Section contains two boxes with all the contact information of Magnolia Tree.
+  - The box on the left contains the telephone number, email and the address of the Studio. On the box on the right, users can find a map to better visualize the exact Studio's location.
+  
+![Contact Details Section](/assets/images/readme-images/11-screenshot-contact-details.png)
 
+#### Thankyoupage Hero Image Section
 
-
-#### Form-dump page
-
-  - This site contains a message when the form has been used.
-  - The purpose of this page is to give the user an indication on that the form is working and that the message has been recived.
+    
 
 ![Form-dump page](/assets/images/readme-images/form-dump-page.jpg)
 
