@@ -94,45 +94,46 @@ My goal was to create a website that could transmit to the users, the calm atmos
 
 The Magnolia Tree website is a three page website divided into sections. Menu is fixed on top in order to ensure easy navigation between the pages.
 
-#### Colours
+#### Colors
 
-The colour palette was created using [Coolors](https://coolors.co/).
+The color palette was created using [Coolors](https://coolors.co/).
 
-![Colour Palette](/assets/images/readme-images/color-palette-magnolia-tree.png)
+![Color Palette](/assets/images/readme-images/color-palette-magnolia-tree.png)
 
 #### Typography
 
-The [Google Font Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 800 has been used on the website.
+The [Google Font Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 800 have been used on the website.
 
 #### Images
 
-Images has been chosen in accordance to colour and content. The purpose of the website is to give a friendly look and express quality. Images has been sized in order to match design.
+Images have been chosen in accordance to color and content. The purpose of the website is to give a calm look and express quality. Images have been sized in order to match design.
 
-[Back to top](#nacka-tomato-society)
+[Back to top](#magnolia-tree)
 
 ## Features 
 
-The Nacka Tomato Society website is a single page website that consists of these sections:
+The Magnolia Tree website is a three-page website that consists of the following sections:
 
- - Header (Logo/Menu)
- - Hero Header
+ - Header (Logo/Navigation Bar)
+ - Home Page Hero Image
  - About Us
- - 2022 Events
- - Contact and Registration
+ - About Yoga and Meditation
+ - Footer
  - Footer
 
-In order to make navigation easier between the sections the navigation bar is fixed on top when the user scrolls thru the page.
+In order to make navigation easier between the pages the navigation bar is fixed on top when the user scrolls thru the page.
 
 ### Existing Features
 
-#### Header and Navigation Section
+#### Header and Navigation Bar Section
 
-  - The Header consists of a Logo section, text-based, that is aligned to the right and a Menu that is aligned to the left.
-  - The Header is at a fixed position on top and follows the user as the user scrolls down the page. Menu items are anchored to sections on the website.
+  - The Header consists of a Logo section, image-based, that is aligned to the left and a Menu that is aligned to the right.
+  - Featured on all three pages, the navigation bar includes links to the Home page, Classes page and Contact page and is identical in each page to allow for easy navigation.
+  - The Header is at a fixed position on top and follows the user as the user scrolls down the page.
 
-![Header and navigation](/assets/images/readme-images/header-section.png)
+![Header and navigation](/assets/images/readme-images/01-screenshot-logo-and-nav-bar.png)
 
-#### Hero Header Section
+#### Home Page Hero Image Section
 
   - The Hero Header section contains a Hero Image, header and a paragraph.
   - The section will give user a sense of home grown tomatoes and comfort. The section also contains a header and a paragraph that gives the user a clear message on what this website is about.
