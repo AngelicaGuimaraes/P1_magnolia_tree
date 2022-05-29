@@ -133,7 +133,7 @@ The Magnolia Tree website is a three-page website plus a Thank You Page that con
  - Thankyoupage Hero Image
  - Thankyou Section
 
-In order to make navigation easier between the pages the navigation bar is fixed on top when the user scrolls up an down.
+In order to make navigation easier between the pages, the navigation bar is fixed on top when the user scrolls up an down.
 
 ### Existing Features
 
@@ -287,7 +287,7 @@ Apart from these issues there have been several minor issues. The majority of th
 
 ### Unfixed Bugs
 
-All known bugs in this section has been moved to the section [Testing](#testing) with solution when they have been solved. Last known bug solved 2022-03-25. No more testing will be conducted now and the project will be submitted.
+  -  The first columm of the Meditation Group Table shrinked left when I inserted the td.
 
  [Back to top](#magnolia-tree-yoga-studio)
 
@@ -325,23 +325,21 @@ The live link can be found here - https://angelicaguimaraes.github.io/magnolia_t
 ### For code inspiration, design inputs, help and advice. Many thanks to:
 
 Martina Terlevic
- - My fantastic mentor at Code Institute
+ - My awesome mentor at Code Institute
  
- Lauren-Nicole
- - Fellow student: Thank you for all discussions and inspiration!
- 
- Mikaela Källberg
- - Fellow student: Thank you for all spelling checks!
- 
- Anders Edelsgren
- - Friend and Mentor: Thank you for all your knowledge and insight.
+ Mats Simonsson
+ - Friend and Mentor: Thank you for all the time spent helping me, for your patience and support!
 
 ### Great sources
 
-Sites that has provided me with knowledge and information that has been vital to this project:
+Sites that have provided me with knowledge and information that has been vital to this project:
 
 https://www.w3schools.com/
 https://stackoverflow.com
+https://www.developerdrive.com/
+https://www.w3schools.com/default.asp
+https://www.freecodecamp.org/
+
 
 And all the content in HTML-Essentials, CSS-Essentials and the Walkthrough project ”Love Running” that has provided inspiration and knowledge.
 
