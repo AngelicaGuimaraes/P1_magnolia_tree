@@ -125,7 +125,7 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
 ### Existing Features
 
-#### Header and Navigation Bar Section
+#### Header With Logo and Navigation Bar Section
 
   - The Header consists of a Logo section, image-based, that is aligned to the left and a Menu that is aligned to the right.
   - Featured on all three pages, the navigation bar includes links to the Home page, Classes page and Contact page and is identical in each page to allow for easy navigation.
@@ -135,23 +135,19 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
 #### Home Page Hero Image Section
 
-  - The Hero Header section contains a Hero Image, header and a paragraph.
-  - The section will give user a sense of home grown tomatoes and comfort. The section also contains a header and a paragraph that gives the user a clear message on what this website is about.
+  - The Home Page Hero Image Section contains a hero image, header and a paragraph.
+  - The section was built to give the user a welcome sensation and transmit the user our peaceful atmosphere.
+  - The images gives a strong self-confidence feeling.
+  - The section also contains a header and a paragraph that gives the user a clear message of what the website is about.
 
-![Hero Header Section](/assets/images/readme-images/hero-header-section.jpg)
+![Home Page Hero Header Section](/assets/images/readme-images/02-screenshot-home-hero-image.png)
 
-#### About us Section
+#### About Us Section
 
-  - The about us sections is divided in two parts. One informative part with a longer paragraph next to an image with the founder. The second part consists of three images each with a short paragraph on the bottom.
-  - The purpose of the About Us section is to give Users a feel of what NTS is and why it was founded. It also gives the User an idea on what happens on events and gatherings. The images gives a comforting feel.
+  - In the About Us Sections the user will find out about the type of yoga the Studio teaches, whom the Studio build the classes for, and what users can expect when joining one of the classes or meditation groups. 
+  - The purpose of the About Us section is to give users a feel of what Magnolia Tree is and it's mission.
 
-About Us - Image 1
-
-![About us Section part 1](/assets/images/readme-images/about-us-section-1.jpg)
-
-About Us - Image 2
-
-![About us Section part 2](/assets/images/readme-images/about-us-section-2.jpg)
+![About us Section](/assets/images/readme-images/03-screenshot-about-us-section.png)
 
 #### 2022 Events Section
 
