@@ -176,6 +176,15 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
 ![Classes Hero Image Section](/assets/images/readme-images/06-screenshot-classes-hero-image.png)
 
+#### About Our Classes Section
+
+  - The purpose of this section i sto give the users a general idea of the type of classes that the Studio offers.
+  - Here in this section users can also inform themselves about the structure os the in-group classes and it's duration.
+
+![About our Classes Section](/assets/images/readme-images/07-screenshot-about-our-classes-section.png)
+
+#### 
+
   - The section contains a registration form and contact details to NTS. It also has a map that displays the location to NTS.
   - The purpose of this section is to make contact and registration as easy as possible. The User uses the form to sign up as a member or to register interest. In order to establish direct contact as easy as possible the section also provides the User with a telephone number and an email. If the form is used in this version it sends the User to a form-dump page with a message.
 
