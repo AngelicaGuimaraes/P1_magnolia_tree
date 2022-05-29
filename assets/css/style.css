@@ -588,59 +588,26 @@ span a {
 
 /* media queries */
 
-/* for big screens size width above 1080px */
-@media screen and (min-width: 1081px) and (max-width: 1920px) {
+/* for big screens size width above 1280px */
+@media screen and (max-width: 1920px) {
     /* add queries */
 
-    header {
-        height: 120px;
-        margin-top: -120px;
-    }
 }
 
-/* for larger to medium screens size width from 920px to 1080px */
-@media screen and (min-width: 921px) and (max-width: 1080px) {
+/* for larger to medium screens size width from 920px to 1280px */
+@media screen and (max-width: 1280px) {
     /* add queries */
-
-    #about-section-content {
-        background-color: #F7E4E6;
-        text-align: center;
-        padding: 0 50px 30px 50px;
-    }
-
-    .about {
-        display: inline-block;
-        vertical-align: top;      
-    }
 
 }
 
 /* for medium screen size width from 480px to 920px */
-@media screen and (min-width: 481px) and (max-width: 920px) {
+@media screen and (max-width: 920px) {
     /* add queries */
 
-    #about-section-content {
-        background-color: #F7E4E6;
-        text-align: center;
-        padding: 0 50px 30px 50px;
-    }
-
-    .about {
-        display: inline-block;
-        vertical-align: top;      
-    }
 }
 
 /* for small screen size width up to 480px */
 @media screen and (max-width: 480px) {
     /* add queries */
     
-    header {
-        height: 70px;
-        margin-top: -70px;
-    }
-
-    #logo {
-        padding-left: 20px;
-    }
 } 

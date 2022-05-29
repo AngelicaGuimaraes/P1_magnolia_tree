@@ -8,7 +8,7 @@ This website was created for a fictitious Yoga Studio located in Vienna, Autria.
  
 The site contains the home page with three  sections, a classes page in which is possible to see all the type of classes they offer and also their schedules and, finally, a contact page in which is possible to see all the available ways to get in touch with the studio and send them a request via their contact form, which redirects the client to a thank you page.
 
-The target audience are adult individuals living in the municipality of Nacka.
+The target audience are female adult individuals, 30/40s, living in or traveling to Vienna.
 
 This website is the first of five projects that needs to be completed in order to receive a diploma in Software Development from The Code Institute.
 
