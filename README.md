@@ -42,8 +42,7 @@ A live version of the project can be found here - https://angelicaguimaraes.gith
     + [Contact Form Section](#contact-form-section "Contact Form Section")
     + [Contact Detail Section](#contact-details-section "Contact Details Section")
     + [Thankyoupage Hero Image Section](#thankyoupage-hero-image-section "Thankyoupage Hero Image Section")
-    + [Tankyou section](#thankyou-section "Thankyou section")
-  + [Features Left to Implement](#features-left-to-implement "Features Left to Implement")
+    + [Tankyou Section](#thankyou-section "Thankyou Section")
 + [Technologies used](#technologies-used "Technologies used")
 + [Testing](#testing "Testing")
   + [Validator Testing](#validator-testing "Validator Testing")
@@ -218,12 +217,14 @@ In order to make navigation easier between the pages the navigation bar is fixed
 - The purpose of this section is to make users feel thanked for getting in contact with the Studio.
 - The Namaste gesture expresses gratitude and that's why it was chosen for this hero image banner.
 
-
 ![Thankyoupage Hero Image Section](/assets/images/readme-images/12-screenshot-thankyoupage-hero-image.png)
 
-### Features Left to Implement
+#### Thankyou Section
 
-- Later versions of this project will contain a member section were members can upload inspirational images.
+- This section is where the user receives the confirmation that the form has been sent correctly and that it has been received by the Studio.
+
+![Thankyou Section](/assets/images/readme-images/13-screenshot-thankyou-section.png)
+
 
 [Back to top](#magnolia-tree)
 
