@@ -125,6 +125,13 @@ The Magnolia Tree website is a three-page website plus a Thank You Page that con
  - About Yoga and Meditation
  - Footer
  - Classes Hero Image
+ - About our Classes
+ - Classes Time Tables
+ - Contact Hero Image
+ - Contact Form
+ - Contact Details
+ - Thankyoupage Hero Image
+ - Thankyou Section
 
 In order to make navigation easier between the pages the navigation bar is fixed on top when the user scrolls up an down.
 
@@ -226,7 +233,7 @@ In order to make navigation easier between the pages the navigation bar is fixed
 ![Thankyou Section](/assets/images/readme-images/13-screenshot-thankyou-section.png)
 
 
-[Back to top](#magnolia-tree)
+[Back to top](#magnolia-tree-yoga-studio)
 
 ## Technologies used
 
@@ -282,7 +289,7 @@ Apart from these issues there have been several minor issues. The majority of th
 
 All known bugs in this section has been moved to the section [Testing](#testing) with solution when they have been solved. Last known bug solved 2022-03-25. No more testing will be conducted now and the project will be submitted.
 
- [Back to top](#nacka-tomato-society)
+ [Back to top](#magnolia-tree-yoga-studio)
 
 ## Development and Deployment
 
@@ -299,7 +306,7 @@ The procedure for deployment followed the "Creating your site" steps provided in
 5. At the ”Source” section choose ”main” as Branch and root as folder and click ”Save”
 6. The website will deploy and the pages refreshes to provide the live link to the project.
 
-The live link can be found here - https://pelikantapeten.github.io/p1-nacka-tomato-society/
+The live link can be found here - https://angelicaguimaraes.github.io/magnolia_tree/
 
 ## Content 
 
