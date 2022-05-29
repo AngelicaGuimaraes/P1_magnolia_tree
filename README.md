@@ -1,108 +1,306 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Magnolia Tree Yoga Studio
 
-Welcome AngelicaGuimaraes,
+![Responsive screenshot](/assets/images/readme-images/readme-responsive-image.png)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+# The purpose with this project
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+This website was created for a fictitious Yoga Studio located in Vienna, Autria. Magnolia Tree is a place, built to satisfy the needs and requests of women who are in their 30/40s, dealing with a busy schedule, looking for a moment on their days to work on their bodies and minds.
+ 
+The site contains the home page with three  sections, a classes page in which is possible to see all the type of classes they offer and also their schedules and, finally, a contact page in which is possible to see all the available ways to get in touch with the studio and send them a request via their contact form, which redirects the client to a thank you page.
 
-## Gitpod Reminders
+The target audience are adult individuals living in the municipality of Nacka.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This website is the first of five projects that needs to be completed in order to receive a diploma in Software Development from The Code Institute.
 
-`python3 -m http.server`
+Requirements for the project is that the website has to be static and responsive using HTML5 and CSS3.
 
-A blue button should appear to click: _Make Public_,
+A live version of the project can be found here - https://pelikantapeten.github.io/p1-nacka-tomato-society/
 
-Another blue button should appear to click: _Open Browser_.
+# Table of Content
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
++ [UX](#ux "UX")
+  + [User Demographic](#user-demographic "User Demographic")
+  + [User Stories](#user-stories "User Stories")
+    + [Existing Members](#existing-members "Existing Members")
+    + [New Users](#new-users "New Users")
+  + [User Goals](#user-goals "User Goals")
+  + [Requirements](#requirements "Requirements")
+  + [Design](#design "Design")
+    + [Colours](#colours "Colours")
+    + [Typography](#typography "Typography")
+    + [Images](#images "Images")
++ [Features](#features "Features")
+  + [Existing Features](#existing-features "Existing Features")
+    + [Header and Navigation Section](#header-and-navigation-section "Header and Navigation Section")
+    + [Hero Header Section](#hero-header-section "Hero Header Section")
+    + [About us Section](#about-us-section "About us Section")
+    + [2022 Events Section](#2022-events-section "2022 Events Section")
+    + [Contact and Registration Section](#contact-and-registration-section "Contact and Registration Section")
+    + [Footer Section](#footer-section "Footer Section")
+    + [Form-dump page](#form-dump-page "Form-dump page")
+  + [Features Left to Implement](#features-left-to-implement "Features Left to Implement")
++ [Technologies used](#technologies-used "Technologies used")
++ [Testing](#testing "Testing")
+  + [Validator Testing](#validator-testing "Validator Testing")
+  + [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
++ [Development and Deployment](#development-and-deployment "Development and Deployment")
++ [Content](#content "Content")
++ [Media](#media "Media")
++ [Credits](#credits "Credits")
 
-A blue button should appear to click: _Make Public_,
+## UX
 
-Another blue button should appear to click: _Open Browser_.
+### User Demographic
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+This website is ment for:
 
-To log into the Heroku toolbelt CLI:
+ - Residents in Nacka that want to know more about local communities 
+ - Residents in Nacka that want to become a member of NTS or attend their events.
+ - Residents in Nacka that are members of NTS and want to register for events.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### User Stories
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+#### Existing Members
 
-------
+ - As a Member: I want to be able to see when the yearly events occur.
+ - As a Member: I want to sign up for events.
+ - As a Member: I want to be able to contact the Society.
 
-## Release History
+#### New Users
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+ - As a new User: I want to know more of my local community.
+ - As a new User: I want to join NTS to learn more about Tomatoes.
+ - As a new User: I want to register for open Events.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+### User Goals
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+ - Find information regarding on local society
+ - Sign up to local events
+ - Join local organisation (Society)
+ - Contact local society
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Requirements
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+A static responsive website that incorporates the technologies I have learned so far that contains some advanced functionality. The development process needs to be well documented through a version controls system such as GitHub.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+Required technologies: HTML, CSS
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+### Design
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+As this is my first project the design has been influenced by the ”Love Running” - project. The code from the footer has been borrowed from that project (commented in the code). My design of the header and hero-header has also been influenced by that project.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+My aim has been to create a clean looking website where there is a balance between colors, images and functionality.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+The Nacka Tomato Society website is a single page website divided in to sections. Menu is fixed on top in order to ensure easy navigation between the sections.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+#### Colours
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+The colour palette was created using [Coolors](https://fontawesome.com/).
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+![Colour Palette](/assets/images/readme-images/colour-palette.png)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+#### Typography
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+The [Google Font Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 700 has been used on the website.
 
-------
+#### Images
 
-## FAQ about the uptime script
+Images has been chosen in accordance to colour and content. The purpose of the website is to give a friendly look and express quality. Images has been sized in order to match design.
 
-**Why have you added this script?**
+[Back to top](#nacka-tomato-society)
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+## Features 
 
-**How will this affect me?**
+The Nacka Tomato Society website is a single page website that consists of these sections:
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+ - Header (Logo/Menu)
+ - Hero Header
+ - About Us
+ - 2022 Events
+ - Contact and Registration
+ - Footer
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+In order to make navigation easier between the sections the navigation bar is fixed on top when the user scrolls thru the page.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+### Existing Features
 
-**So….?**
+#### Header and Navigation Section
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+  - The Header consists of a Logo section, text-based, that is aligned to the right and a Menu that is aligned to the left.
+  - The Header is at a fixed position on top and follows the user as the user scrolls down the page. Menu items are anchored to sections on the website.
 
-**Can I opt out?**
+![Header and navigation](/assets/images/readme-images/header-section.png)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+#### Hero Header Section
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+  - The Hero Header section contains a Hero Image, header and a paragraph.
+  - The section will give user a sense of home grown tomatoes and comfort. The section also contains a header and a paragraph that gives the user a clear message on what this website is about.
 
-**Anything more?**
+![Hero Header Section](/assets/images/readme-images/hero-header-section.jpg)
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+#### About us Section
 
----
+  - The about us sections is divided in two parts. One informative part with a longer paragraph next to an image with the founder. The second part consists of three images each with a short paragraph on the bottom.
+  - The purpose of the About Us section is to give Users a feel of what NTS is and why it was founded. It also gives the User an idea on what happens on events and gatherings. The images gives a comforting feel.
 
-Happy coding!
+About Us - Image 1
+
+![About us Section part 1](/assets/images/readme-images/about-us-section-1.jpg)
+
+About Us - Image 2
+
+![About us Section part 2](/assets/images/readme-images/about-us-section-2.jpg)
+
+#### 2022 Events Section
+
+  - This section contains a header and three information boxes. The information boxes contains an image and a paragraph.
+  - The purpose of this section is to give the User an understanding on what type of events NTS is providing to its members. Each event has a picture that shows something related to the event type so that it increases the Users curiosity.
+
+![2022 Events Section](/assets/images/readme-images/2022-events-section.jpg)
+
+#### Contact and Registration Section
+
+  - The section contains a registration form and contact details to NTS. It also has a map that displays the location to NTS.
+  - The purpose of this section is to make contact and registration as easy as possible. The User uses the form to sign up as a member or to register interest. In order to establish direct contact as easy as possible the section also provides the User with a telephone number and an email. If the form is used in this version it sends the User to a form-dump page with a message.
+
+![Contact and Registration Section](/assets/images/readme-images/contact-registration-section.jpg)
+
+#### Footer Section
+
+  - The Footer contains four social media links (Facebook, Twitter, YouTube and Instagram) The code for the Footer is borrowed from the Love Running - Project.
+  - The purpose of the Footer is to provide easy access for the User to the different social media platforms were Nacka Tomato Society has a presence.
+
+![Footer](/assets/images/readme-images/footer-section.png)
+
+#### Form-dump page
+
+  - This site contains a message when the form has been used.
+  - The purpose of this page is to give the user an indication on that the form is working and that the message has been recived.
+
+![Form-dump page](/assets/images/readme-images/form-dump-page.jpg)
+
+### Features Left to Implement
+
+- Later versions of this project will contain a member section were members can upload inspirational images.
+
+[Back to top](#nacka-tomato-society)
+
+## Technologies used
+
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
+## Testing 
+
+Test of functionality and appearance of the website has have been dealt with thru out all stages of the development phase.
+
+Test has been conducted using Google Chrome, Mozilla Firefox and Safari. Testing different devices and screen resolutions has been conducted using Google DevTools.
+
+Listed is the main issues discovered.
+
+1. Top menu disappears even though its fixed.
+ - Solution: Had to use z-index to keep the menu on top of all sections and elements, value set to 20
+2. Data sent from contact form was not correct when tested towards a form-dump site (https://jkorpela.fi/cgi-bin/echo.cgi).
+ - Solution: The name attribute in the input tags were not correct.
+3. Text alignment in input fields were not correct and it differed between Safari and Chrome.
+ - Solution: Corrected by adding text-alignment in style.css.
+4. Hero-Header image fades out in different resolutions and looks bad.
+ - Solution: Created three versions of the Hero-Header image that changes depending on resolution.
+5. When tested in Lighthouse the website received a low score on performance, 72. The reason for this was that some images did not contain proper attributes for width and height.
+ - Solution: Added values for height and width to images and score increased to 98
+6. Poor performance on smaller screens. About Us and 2022 Events sections did not place them selfs properly.
+ - Solution: Solved this by using media queries and now the elements are displayed as they should.
+7. Menu not properly aligned with header on small screens and it gets cropped and divided.
+ - Solution: Added new values in the existing media queries.
+8. Menu still gets cropped on screens with resolutions below 320px. It looks good using Google DevTools but not on a physical device
+ - Solution: Solved 20220325 - Removed from Unfixed bugs. Changed View Port Width on fonts in menu.
+9. Images in the 2022 Events section are slightly out of alignment on low resolution screens.
+ - Solution: Solved 20220325 - Removed from Unfixed bugs. Changed View Port Width on fonts in menu. Changes to CSS under correct Media Query corrected this.
+
+Apart from these issues there have been several minor issues. The majority of these has been due to miss spelled tags, attributes and other misstakes. The first test in the W3C Validator pointed on 8 different things. 6 of them were connected to the Iframe used to display the Map from Google in the Contact section. The errors were easily corrected.
+
+
+
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpelikantapeten.github.io%2Fp1-nacka-tomato-society%2F)
+
+![W3C HTML Validator](/assets/images/readme-images/w3-html-validator.png)
+
+- CSS
+  - No errors were returned when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpelikantapeten.github.io%2Fp1-nacka-tomato-society%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+![Jigsaw validator](/assets/images/readme-images/jigsaw-validator.png)
+
+- Lighthouse testing
+
+![Lighthouse testing score](/assets/images/readme-images/lighthouse-test-score.png)
+
+### Unfixed Bugs
+
+All known bugs in this section has been moved to the section [Testing](#testing) with solution when they have been solved. Last known bug solved 2022-03-25. No more testing will be conducted now and the project will be submitted.
+
+ [Back to top](#nacka-tomato-society)
+
+## Development and Deployment
+
+The development environment used for this project was GitPod. To track the development stage and handle version control regular commits and pushes to GitHub has been conducted. The GitPod environment was created using a template provided by Code Institute.
+
+The live version of the project is deployed at GitHub pages.
+
+The procedure for deployment followed the "Creating your site" steps provided in [GitHub Docs.](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+1. Log into GitHub.
+2. Locate the GitHub Repository that shall be deployed live.
+3. At the top of the repository, select Settings from the menu items.
+4. Scroll down the Settings page to the ”GitHub Pages" section and click on the ”Check it out here!”
+5. At the ”Source” section choose ”main” as Branch and root as folder and click ”Save”
+6. The website will deploy and the pages refreshes to provide the live link to the project.
+
+The live link can be found here - https://pelikantapeten.github.io/p1-nacka-tomato-society/
+
+## Content 
+
+- All text content on this site has been produced by the author of the project and is fictional. Individuals mentioned do not exist in real life and there is no Nacka Tomato Society.
+- The design of the project is inspired by Code Institutes ”Love Running” project. Code has been borrowed from that project, the Footer. It is commented in index.html and styles.css were the the borrowed code is applied. 
+- The icons in the header, contact and registration and footer were taken from [Font Awesome](https://fontawesome.com/)
+
+## Media
+
+- All images are downloaded from [Envato Elements](https://elements.envato.com). They are licensed under a broad commercial license that allows them to be used in this project (Named ”P1”). The license allows usage for public purposes.
+
+- [Link to license agreement](https://elements.envato.com/license-terms)
+
+## Credits 
+
+### For code inspiration, design inputs, help and advice. Many thanks to:
+
+Martina Terlevic
+ - My fantastic mentor at Code Institute
+ 
+ Lauren-Nicole
+ - Fellow student: Thank you for all discussions and inspiration!
+ 
+ Mikaela Källberg
+ - Fellow student: Thank you for all spelling checks!
+ 
+ Anders Edelsgren
+ - Friend and Mentor: Thank you for all your knowledge and insight.
+
+### Great sources
+
+Sites that has provided me with knowledge and information that has been vital to this project:
+
+https://www.w3schools.com/
+https://stackoverflow.com
+
+And all the content in HTML-Essentials, CSS-Essentials and the Walkthrough project ”Love Running” that has provided inspiration and knowledge.
+
+Top screenshot in this ReadMe was made using:
+
+http://ami.responsivedesign.is/
+
+Best regards
+
+[Back to top](#nacka-tomato-society)
