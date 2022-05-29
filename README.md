@@ -5,7 +5,7 @@
 
 This website was created for a fictitious Yoga Studio located in Vienna, Autria. Magnolia Tree is a place, built to satisfy the needs and requests of women who are in their 30/40s, dealing with a busy schedule, looking for a moment on their days to work on their bodies and minds.
  
-The site contains the home page with three  sections, a classes page in which is possible to see all the type of classes they offer and also their schedules and, finally, a contact page in which is possible to see all the available ways to get in touch with the studio and send them a request via their contact form, which redirects the client to a thank you page.
+The site contains the home page with three  sections, a classes page in which is possible to see all the type of classes they offer and also their schedules, a contact page in which is possible to see all the available ways to get in touch with the studio and send them a request via their contact form, and the thank you page to which the user is redirected after filling out and sending the form.
 
 The target audience is female adult individuals, 30/40s, living in or traveling to Vienna.
 
@@ -118,23 +118,23 @@ Images have been chosen in accordance to color and content. The purpose of the w
 
 ## Features 
 
-The Magnolia Tree website is a three-page website that consists of the following sections:
+The Magnolia Tree website is a three-page website plus a Thank You Page that consists of the following sections:
 
  - Header (Logo/Navigation Bar)
  - Home Page Hero Image
  - About Us
  - About Yoga and Meditation
  - Footer
- - Footer
+ - Classes Hero Image
 
-In order to make navigation easier between the pages the navigation bar is fixed on top when the user scrolls thru the page.
+In order to make navigation easier between the pages the navigation bar is fixed on top when the user scrolls up an down.
 
 ### Existing Features
 
 #### Header With Logo and Navigation Bar Section
 
   - The Header consists of a Logo section, image-based, that is aligned to the left and a Menu that is aligned to the right.
-  - Featured on all three pages, the navigation bar includes links to the Home page, Classes page and Contact page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the navigation bar includes links to the Home page, Classes page and Contact page and is identical in each page to allow for easy navigation.
   - The Header is at a fixed position on top and follows the user as the user scrolls down the page.
 
 ![Header and navigation](/assets/images/readme-images/01-screenshot-logo-and-nav-bar.png)
@@ -153,14 +153,15 @@ In order to make navigation easier between the pages the navigation bar is fixed
   - In the About Us Sections the user will find out about the type of yoga the Studio teaches, whom the Studio build the classes for, and what users can expect when joining one of the classes or meditation groups. 
   - The purpose of the About Us section is to give users a feel of what Magnolia Tree is and it's mission.
 
-![About us Section](/assets/images/readme-images/03-screenshot-about-us-section.png)
+![About Us Section](/assets/images/readme-images/03-screenshot-about-us-section.png)
 
-#### 2022 Events Section
+#### About Yoga and Meditation Section
 
-  - This section contains a header and three information boxes. The information boxes contains an image and a paragraph.
-  - The purpose of this section is to give the User an understanding on what type of events NTS is providing to its members. Each event has a picture that shows something related to the event type so that it increases the Users curiosity.
+  - This section contains two boxes with an image, a heding and a paragraph, each.
+  - The purpose of this section is to give the user some extra information about Yoga, Meditation and their benefits.
+  - Each box has a picture that shows something related to the topic and that brings the user a feeling of self-improvement and relaxation.
 
-![2022 Events Section](/assets/images/readme-images/2022-events-section.jpg)
+![About Yoga and Meditation Section](/assets/images/readme-images/04-screenshot-about-yoga-and-meditation-section.png)
 
 #### Contact and Registration Section
 
