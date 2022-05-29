@@ -96,13 +96,13 @@ The Magnolia Tree website is a three page website divided into sections. Menu is
 
 #### Colours
 
-The colour palette was created using [Coolors](https://fontawesome.com/).
+The colour palette was created using [Coolors](https://coolors.co/).
 
-![Colour Palette](/assets/images/readme-images/colour-palette.png)
+![Colour Palette](/assets/images/readme-images/color-palette-magnolia-tree.png)
 
 #### Typography
 
-The [Google Font Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 700 has been used on the website.
+The [Google Font Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 800 has been used on the website.
 
 #### Images
 
