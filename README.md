@@ -163,19 +163,25 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
 ![About Yoga and Meditation Section](/assets/images/readme-images/04-screenshot-about-yoga-and-meditation-section.png)
 
-#### Contact and Registration Section
+#### Footer Section
+
+  - The Footer contains three social media links (Facebook, Instagram and Pinterest). 
+  - The purpose of the Footer is to provide easy access for the user to the different social media platforms were Magnolia Tree has a presence.
+
+![Footer](/assets/images/readme-images/05-screenshot-footer.png)
+
+#### Classes Hero Image Section
+
+  - The section contains an image with students practicing yoga and metitation, in order to bring the user the sensation of well-being, health and mindfulness.
+
+![Classes Hero Image Section](/assets/images/readme-images/06-screenshot-classes-hero-image.png)
 
   - The section contains a registration form and contact details to NTS. It also has a map that displays the location to NTS.
   - The purpose of this section is to make contact and registration as easy as possible. The User uses the form to sign up as a member or to register interest. In order to establish direct contact as easy as possible the section also provides the User with a telephone number and an email. If the form is used in this version it sends the User to a form-dump page with a message.
 
 ![Contact and Registration Section](/assets/images/readme-images/contact-registration-section.jpg)
 
-#### Footer Section
 
-  - The Footer contains four social media links (Facebook, Twitter, YouTube and Instagram) The code for the Footer is borrowed from the Love Running - Project.
-  - The purpose of the Footer is to provide easy access for the User to the different social media platforms were Nacka Tomato Society has a presence.
-
-![Footer](/assets/images/readme-images/footer-section.png)
 
 #### Form-dump page
 
