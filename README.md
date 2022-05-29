@@ -265,14 +265,14 @@ Apart from these issues there have been several minor issues. The majority of th
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpelikantapeten.github.io%2Fp1-nacka-tomato-society%2F)
+  - No errors were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fangelicaguimaraes.github.io%2Fmagnolia_tree%2Findex.html)
 
-![W3C HTML Validator](/assets/images/readme-images/w3-html-validator.png)
+![W3C HTML Validator](/assets/images/readme-images/screenshot-html-validator.png)
 
 - CSS
-  - No errors were returned when passing through the official [(Jigsaw validator)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpelikantapeten.github.io%2Fp1-nacka-tomato-society%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were returned when passing through the official [(Jigsaw validator)](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fangelicaguimaraes.github.io%2Fmagnolia_tree%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
-![Jigsaw validator](/assets/images/readme-images/jigsaw-validator.png)
+![Jigsaw validator](/assets/images/readme-images/screenshot-css-validator.png)
 
 - Lighthouse testing
 
