@@ -215,15 +215,17 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
 #### Thankyoupage Hero Image Section
 
-    
+- The purpose of this section is to make users feel thanked for getting in contact with the Studio.
+- The Namaste gesture expresses gratitude and that's why it was chosen for this hero image banner.
 
-![Form-dump page](/assets/images/readme-images/form-dump-page.jpg)
+
+![Thankyoupage Hero Image Section](/assets/images/readme-images/12-screenshot-thankyoupage-hero-image.png)
 
 ### Features Left to Implement
 
 - Later versions of this project will contain a member section were members can upload inspirational images.
 
-[Back to top](#nacka-tomato-society)
+[Back to top](#magnolia-tree)
 
 ## Technologies used
 
