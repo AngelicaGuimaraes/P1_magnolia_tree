@@ -2,19 +2,18 @@
 
 ![Responsive screenshot](/assets/images/readme-images/readme-responsive-image.png)
 
-# The purpose with this project
 
 This website was created for a fictitious Yoga Studio located in Vienna, Autria. Magnolia Tree is a place, built to satisfy the needs and requests of women who are in their 30/40s, dealing with a busy schedule, looking for a moment on their days to work on their bodies and minds.
  
 The site contains the home page with three  sections, a classes page in which is possible to see all the type of classes they offer and also their schedules and, finally, a contact page in which is possible to see all the available ways to get in touch with the studio and send them a request via their contact form, which redirects the client to a thank you page.
 
-The target audience are female adult individuals, 30/40s, living in or traveling to Vienna.
+The target audience is female adult individuals, 30/40s, living in or traveling to Vienna.
 
 This website is the first of five projects that needs to be completed in order to receive a diploma in Software Development from The Code Institute.
 
 Requirements for the project is that the website has to be static and responsive using HTML5 and CSS3.
 
-A live version of the project can be found here - https://pelikantapeten.github.io/p1-nacka-tomato-society/
+A live version of the project can be found here - https://angelicaguimaraes.github.io/magnolia_tree/
 
 # Table of Content
 
@@ -54,30 +53,32 @@ A live version of the project can be found here - https://pelikantapeten.github.
 
 This website is ment for:
 
- - Residents in Nacka that want to know more about local communities 
- - Residents in Nacka that want to become a member of NTS or attend their events.
- - Residents in Nacka that are members of NTS and want to register for events.
+ - Residents in Vienna who want to know more about yoga and/or meditation.
+ - Residents in Vienna who want to practice yoga and/or meditation.
+ - Travelers who are in Vienna and want to practice yoga and/or meditation.
 
 ### User Stories
 
 #### Existing Members
 
- - As a Member: I want to be able to see when the yearly events occur.
- - As a Member: I want to sign up for events.
- - As a Member: I want to be able to contact the Society.
+ - As a Member: I want to be able to see whether the Studio has new activities to offer me.
+ - As a Member: I want to be able to have easy access to the classes hours.
+ - As a Member: I want to be able to contact the Studio.
 
 #### New Users
 
- - As a new User: I want to know more of my local community.
- - As a new User: I want to join NTS to learn more about Tomatoes.
- - As a new User: I want to register for open Events.
+ - As a new User: I want to know what the Studio has to offer me.
+ - As a new User: I want to feel whether the Studio has the right atmosphere for me.
+ - As a new User: I want to be able to get in contact with the Studio and clarify any questions I may have.
 
 ### User Goals
 
- - Find information regarding on local society
- - Sign up to local events
- - Join local organisation (Society)
- - Contact local society
+ - Find information about yoga and meditation
+ - Find information about practices and classes hours
+ - Find information about how to get in contact with the Studio
+ - Find information about the location of the Studio
+ - Send a request to the Studio via the contact form
+ - Book a class or an appointment to make a visit to the Studio
 
 ### Requirements
 
