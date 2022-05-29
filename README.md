@@ -63,7 +63,7 @@ This website is ment for:
 
  - As a Member: I want to be able to see whether the Studio has new activities to offer me.
  - As a Member: I want to be able to have easy access to the classes hours.
- - As a Member: I want to be able to contact the Studio.
+ - As a Member: I want to be able to contact the Studio to book a class or an appointment with my instructor.
 
 #### New Users
 
@@ -88,11 +88,11 @@ Required technologies: HTML, CSS
 
 ### Design
 
-As this is my first project the design has been influenced by the ”Love Running” - project. The code from the footer has been borrowed from that project (commented in the code). My design of the header and hero-header has also been influenced by that project.
+Since this is my first HTML/CSS project, the design has been influenced by the ”Love Running” project.
 
-My aim has been to create a clean looking website where there is a balance between colors, images and functionality.
+My goal was to create a website that could transmit to the users, the calm atmosphere of the Studio and, at the same time, how serious they take teaching the art of yoga and meditation, all of that, working with a balance between colors, images and functionality.
 
-The Nacka Tomato Society website is a single page website divided in to sections. Menu is fixed on top in order to ensure easy navigation between the sections.
+The Magnolia Tree website is a three page website divided into sections. Menu is fixed on top in order to ensure easy navigation between the pages.
 
 #### Colours
 
