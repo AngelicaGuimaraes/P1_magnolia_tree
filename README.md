@@ -178,10 +178,17 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
 #### About Our Classes Section
 
-  - The purpose of this section i sto give the users a general idea of the type of classes that the Studio offers.
+  - The purpose of this section is to give the users a general idea of the type of classes that the Studio offers.
   - Here in this section users can also inform themselves about the structure os the in-group classes and it's duration.
 
 ![About our Classes Section](/assets/images/readme-images/07-screenshot-about-our-classes-section.png)
+
+#### Classes Time Table Section
+
+  - The section contains two tables, one for the Yoga Classes hours and another one for the Meditation Groups hours.
+  - Users can program themselves by knowing, in advance, all the optins the Studio has to offers them.
+
+![Classes Time Table Section](/assets/images/readme-images/08-screenshot-classes-time-table-section.png)
 
 #### 
 
