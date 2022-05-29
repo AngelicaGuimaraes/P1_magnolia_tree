@@ -187,10 +187,24 @@ In order to make navigation easier between the pages the navigation bar is fixed
 
   - The section contains two tables, one for the Yoga Classes hours and another one for the Meditation Groups hours.
   - Users can program themselves by knowing, in advance, all the optins the Studio has to offers them.
+  - Users can accesss the contact form from the link created on the paragrapha bellow the tables where it says Contact Page.
 
 ![Classes Time Table Section](/assets/images/readme-images/08-screenshot-classes-time-table-section.png)
 
-#### 
+#### Contact Hero Image Section
+
+  - This section was built to give the user a welcoming feeling and to encourage them to get in contact with the Studio.
+
+![Contact Hero Image Section](/assets/images/readme-images/09-screenshot-hero-image-contact-page.png)
+
+#### Contact Form Section
+
+  - The Contact Form Section has the purpose to let users get in contact with the Studio in a confortable, esay and fast way.
+  - The Form has three input fields where users must give their first name, last name and email address.
+  - Users must also chose, at least one of the options, telling what they are interested in practicing in the Studio.
+  - After sending the request wiht the correct information required in the fields, users will be redirected to a Thank you page.
+
+![Contact Form Section](/assets/images/readme-images/10-screenshot-contact-form.png)
 
   - The section contains a registration form and contact details to NTS. It also has a map that displays the location to NTS.
   - The purpose of this section is to make contact and registration as easy as possible. The User uses the form to sign up as a member or to register interest. In order to establish direct contact as easy as possible the section also provides the User with a telephone number and an email. If the form is used in this version it sends the User to a form-dump page with a message.
