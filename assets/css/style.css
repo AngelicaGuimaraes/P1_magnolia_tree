@@ -733,7 +733,20 @@ span a {
         width: 50%;        
     }
 
-    
+    #contact-wrapper {        
+        text-align: center;
+        padding: 30px 30px 30px 30px;
+        width: 90%;        
+    }
+
+    #contact-div ul {
+        width: 60%;
+        text-align: left;
+    }
+
+    .contact-details p {
+        font-size: 60%;
+    }
 
 }
 
