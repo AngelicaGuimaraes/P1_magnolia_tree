@@ -717,8 +717,23 @@ span a {
 
     /* contact page */
 
+    #contact-form-section h1 {        
+        font-size: 5vw;        
+    }
+    
+    #contact-form-section h2 {        
+        font-size: 3.4vw;        
+    }
+    
+    #contact-form-div {
+        width: 100%;
+    }
+    
+    #contact-form {        
+        width: 50%;        
+    }
 
-
+    
 
 }
 
