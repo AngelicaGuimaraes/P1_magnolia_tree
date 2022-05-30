@@ -877,11 +877,19 @@ span a {
         margin-top: 20px;
     }
 
+    #time-yoga-classes {
+        width: 90%;
+    }
+
+    #time-meditation-groups {
+        width: 90%;
+    }
+
     #time-meditation-groups p {
         font-size: 3vw;
     }
 
     /* contact page */
 
-    
+
 }
