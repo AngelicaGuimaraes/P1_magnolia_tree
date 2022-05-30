@@ -325,7 +325,7 @@ The live link can be found here - https://angelicaguimaraes.github.io/magnolia_t
 ### For code inspiration, design inputs, help and advice. Many thanks to:
 
 Martina Terlevic
- - My awesome mentor at Code Institute
+ - My awesome mentor at Code Institute: Thank you for your help during crisis!
  
  Mats Simonsson
  - Friend and Mentor: Thank you for all the time spent helping me, for your patience and support!
@@ -349,4 +349,4 @@ http://ami.responsivedesign.is/
 
 Best regards
 
-[Back to top](#nacka-tomato-society)
+[Back to top](#magnolia-tree-yoga-studio)

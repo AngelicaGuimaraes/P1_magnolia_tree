@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family:'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     color: #3a3a3a
 }
@@ -47,7 +47,6 @@ header {
     background-color: #ffffff;
     height: 80px;
     width: 100%;
-    margin-top: -80px;
     position: fixed;
     z-index: 5;
 }
@@ -63,7 +62,7 @@ header {
 
 #menu {
     margin-right: 20px;
-}   
+}
 
 #menu li {
     font-size: 1.2vw;
@@ -72,7 +71,8 @@ header {
     margin-right: 40px;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -117,7 +117,7 @@ header {
     font-size: 3.4vw;
     color: #D1AA91;
 }
-    
+
 #hero-image-text h3 {
     font-size: 1vw;
     margin-top: auto;
@@ -134,7 +134,7 @@ header {
 .our-mission {
     width: 60%;
     height: auto;
-    text-align:left;
+    text-align: left;
     margin: 0 auto;
     padding-top: 1%;
     padding-bottom: 3%;
@@ -143,7 +143,7 @@ header {
 #about-us h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
 }
 
@@ -172,7 +172,7 @@ header {
 .about {
     display: inline-block;
     vertical-align: middle;
-    
+
 }
 
 #left-about {
@@ -186,7 +186,7 @@ header {
 #about-yoga-header {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
     margin-top: 10px;
 }
@@ -202,7 +202,7 @@ header {
 #about-meditation-header {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
     margin-top: 10px;
 }
@@ -212,7 +212,7 @@ header {
     color: #3a3a3a;
     padding: 0 20%;
     text-align: center;
-    margin:-10px 10px 10px 10px;
+    margin: -10px 10px 10px 10px;
 }
 
 
@@ -231,7 +231,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -267,7 +267,7 @@ footer {
 .choose-your-class {
     width: 60%;
     height: auto;
-    text-align:left;
+    text-align: left;
     margin: 0 auto;
     padding-top: 1%;
     padding-bottom: 3%;
@@ -283,7 +283,7 @@ footer {
 #about-our-classes h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
     margin-top: 10px;
 }
@@ -296,18 +296,21 @@ footer {
 
 /* time table section */
 
-table, th, td {
+table,
+th,
+td {
     border: 1px solid black;
     border-collapse: collapse;
-  }
-  
+}
+
 tr:nth-child(even) {
     background-color: rgb(148, 170, 211, 0.4);
-  }
-  
-th:nth-child(even),td:nth-child(even) {
+}
+
+th:nth-child(even),
+td:nth-child(even) {
     background-color: rgb(148, 170, 211, 0.4);
-  }
+}
 
 table {
     width: 100%;
@@ -350,7 +353,7 @@ tr {
 #yoga-classes-header {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
     margin-top: 10px;
 }
@@ -358,7 +361,7 @@ tr {
 #meditation-classes-header {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
     margin-top: 10px;
 }
@@ -366,7 +369,7 @@ tr {
 #choose-your-class {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
     margin-top: 50px;
 }
@@ -397,13 +400,13 @@ span a {
 
 #contact-form-section {
     width: 100%;
-    height: auto;       
+    height: auto;
 }
 
 .contact {
     width: 60%;
     height: auto;
-    text-align:left;
+    text-align: left;
     margin: 0 auto;
     padding-top: 1%;
     padding-bottom: 3%;
@@ -419,13 +422,13 @@ span a {
 #contact-form-section h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
-    margin-top: 10px;    
+    margin-top: 10px;
 }
 
 #contact-form-div {
-    width: 100%;    
+    width: 100%;
 }
 
 #contact-form {
@@ -439,7 +442,7 @@ span a {
 #contact-form h3 {
     color: #D1AA91;
     text-align: center;
-    margin-bottom: 20px;   
+    margin-bottom: 20px;
 }
 
 #contact-form h2 {
@@ -456,7 +459,7 @@ span a {
 }
 
 .text-input:hover {
-    border:2px solid rgb(148, 170, 211);
+    border: 2px solid rgb(148, 170, 211);
 }
 
 .send-button {
@@ -485,7 +488,7 @@ span a {
 #details-div {
     width: 100%;
     text-align: center;
-    margin-top: 50px;    
+    margin-top: 50px;
     background-color: #F7E4E6;
     padding-top: 20px;
 }
@@ -497,7 +500,7 @@ span a {
 }
 
 #contact-div {
-    width: 45%;        
+    width: 45%;
 }
 
 #contact-div li {
@@ -505,7 +508,7 @@ span a {
 }
 
 #contact-div ul {
-    width: 80%;    
+    width: 80%;
     text-align: center;
 }
 
@@ -523,11 +526,11 @@ span a {
 /* map section */
 #map-div {
     width: 45%;
-    
+
 }
 
 #gmap {
-    width: 100%;    
+    width: 100%;
 }
 
 .contact-details {
@@ -559,7 +562,7 @@ span a {
 .thankyou {
     width: 60%;
     height: auto;
-    text-align:center;
+    text-align: center;
     margin: 0 auto;
     padding-top: 1%;
     padding-bottom: 3%;
@@ -575,7 +578,7 @@ span a {
 #thankyou-section h2 {
     text-transform: uppercase;
     font-size: 1.8vw;
-    color:#D1AA91;
+    color: #D1AA91;
     text-align: center;
     margin-top: 10px;
 }
@@ -588,26 +591,84 @@ span a {
 
 /* media queries */
 
-/* for big screens size width above 1280px */
-@media screen and (max-width: 1920px) {
-    /* add queries */
+@media screen and (min-width: 480px) and (max-width: 920px) {
 
+    #menu li {
+        font-size: 2vw;
+    }
+
+    #menu {
+        line-height: 40px;
+    }
+
+    header {
+
+        height: 60px;
+        margin-top: -60px;
+        position: absolute;
+
+    }
+
+    #logo {
+        position: absolute;
+        bottom: 0;
+        height: 100%;
+        width: auto;
+    }
+
+    #about-us h2 {
+        font-size: 2vw;
+
+
+    }
+
+    #about-us p {
+        font-size: 1.5vw;
+    }
+
+    .our-mission {
+        width: 75%;
+    }
+
+
+    #about-section {
+        width: 100vw;
+    }
+
+    .about-image {
+        width: 200px;
+    }
+
+    .about {
+        vertical-align: middle;
+        position: relative
+    }
+
+    #left-about {
+        width: 100%;
+    }
+
+    #right-about {
+        width: 100%;
+        padding-top: 30px;
+    }
+
+    #about-yoga-header {
+        font-size: 2vw;
+    }
+
+    #about-yoga-content {
+        font-size: 1.5vw;
+        margin-bottom: 0;
+    }
+
+    #about-meditation-header {
+        font-size: 2vw;
+        
+    }
+
+    #about-meditation-content {
+        font-size: 1.5vw;
+        
+    }
 }
-
-/* for larger to medium screens size width from 920px to 1280px */
-@media screen and (max-width: 1280px) {
-    /* add queries */
-
-}
-
-/* for medium screen size width from 480px to 920px */
-@media screen and (max-width: 920px) {
-    /* add queries */
-
-}
-
-/* for small screen size width up to 480px */
-@media screen and (max-width: 480px) {
-    /* add queries */
-    
-} 
