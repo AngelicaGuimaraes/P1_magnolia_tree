@@ -329,6 +329,8 @@ tr {
 
 #time-section {
     width: 100%;
+    text-align: center;
+    margin: 0 auto;
 }
 
 #time-section-content {
@@ -843,11 +845,19 @@ span a {
     #time-section-content {        
         padding: 10px 20px 20px 20px;
         width: 100%;
+        text-align: center;
     }
 
     .classes {
         padding-bottom: 10px;
         width: 100%;
+        margin: 0;        
+    }
+
+    #time-section {
+        width: 100%;
+        text-align: center;
+        margin: 0;
     }
 
     table {
@@ -863,11 +873,15 @@ span a {
     }
 
     #choose-your-class {        
-        font-size: 2vw;        
+        font-size: 3.4vw;        
         margin-top: 20px;
     }
 
     #time-meditation-groups p {
-        font-size: 1.6vw;
+        font-size: 3vw;
     }
+
+    /* contact page */
+
+    
 }
