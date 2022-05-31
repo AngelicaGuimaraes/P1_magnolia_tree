@@ -745,7 +745,7 @@ span a {
     #contact-wrapper {        
         text-align: center;
         padding: 30px 30px 30px 30px;
-        width: 90%;        
+        width: 100%;        
     }
 
     #contact-div ul {
