@@ -195,7 +195,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
   - Users can program themselves by knowing, in advance, all the optins the Studio has to offers them.
   - Users can accesss the contact form from the link created on the paragrapha bellow the tables where it says Contact Page.
 
-![Classes Time Table Section](/assets/images/readme-images/08-screenshot-classes-time-table-section.png)
+![Classes Time Table Section](/assets/images/readme-images/classes-sreenshot.png)
 
 #### Contact Hero Image Section
 
@@ -326,11 +326,10 @@ Martina Terlevic
 
 Sites that have provided me with knowledge and information that has been vital to this project:
 
-https://www.w3schools.com/
-https://stackoverflow.com
-https://www.developerdrive.com/
-https://www.w3schools.com/default.asp
-https://www.freecodecamp.org/
+- https://www.w3schools.com/
+- https://stackoverflow.com
+- https://www.developerdrive.com/
+- https://www.freecodecamp.org/
 
 
 And all the content in HTML-Essentials, CSS-Essentials and the Walkthrough project ”Love Running” that has provided inspiration and knowledge.
