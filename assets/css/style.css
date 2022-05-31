@@ -559,7 +559,8 @@ span a {
 
 #thankyou-section {
     width: 100%;
-    height: auto;
+    height: 280px;
+    margin-top: 90px;
 }
 
 .thankyou {
@@ -1072,12 +1073,7 @@ span a {
     #map-div {
         width: 100%;
         margin-top: 30px;    
-    }
-    
-    /* .contact-details {
-        display: inline-block;
-        vertical-align: middle;
-    } */
+    }    
 
     #thankyou-section {
         width: 100vw;
