@@ -249,25 +249,19 @@ Listed is the main issues discovered.
 1. Home page Hero-Image was not staying on the right place after addding the Hero-Image Text.
  - Solution: Removed it as a background-image from the style.css and moved it to index.html.
 2. First colum of the Meditation Group Table shrinked after inserted the data.
- - Solution: Not yet solved.
-3. Text alignment in input fields were not correct and it differed between Safari and Chrome.
- - Solution: Corrected by adding text-alignment in style.css.
-4. Hero-Header image fades out in different resolutions and looks bad.
- - Solution: Created three versions of the Hero-Header image that changes depending on resolution.
-5. When tested in Lighthouse the website received a low score on performance, 73. The reason for thas was that the images size were too big.
+ - Solution: Adjusted the data inserted.
+3. Hero-Image were not taking 100% of the screen's width.
+ - Solution: Resized the images to a larger size.
+4. When tested in Lighthouse the website received a low score on performance, 73. The reason for thas was that the images size were too big.
  - Solution: Resized all the images and score increased to 99.
-6. Poor performance on smaller screens. About Us and 2022 Events sections did not place them selfs properly.
+5. Poor performance on smaller screens. About Us and 2022 Events sections did not place them selfs properly.
  - Solution: Solved this by using media queries and now the elements are displayed as they should.
-7. Menu not properly aligned with header on small screens and it gets cropped and divided.
+6. Menu not properly aligned with header on small screens and it gets cropped and divided.
  - Solution: Added new values in the existing media queries.
-8. Menu still gets cropped on screens with resolutions below 320px. It looks good using Google DevTools but not on a physical device
+7. Menu still gets cropped on screens with resolutions below 320px. It looks good using Google DevTools but not on a physical device
  - Solution: Solved 20220325 - Removed from Unfixed bugs. Changed View Port Width on fonts in menu.
-9. Images in the 2022 Events section are slightly out of alignment on low resolution screens.
- - Solution: Solved 20220325 - Removed from Unfixed bugs. Changed View Port Width on fonts in menu. Changes to CSS under correct Media Query corrected this.
 
-Apart from these issues there have been several minor issues. The majority of these has been due to miss spelled tags, attributes and other misstakes. The first test in the W3C Validator pointed on 8 different things. 6 of them were connected to the Iframe used to display the Map from Google in the Contact section. The errors were easily corrected.
-
-
+Apart from these issues there have been several minor issues. The majority of these has been due to miss spelled tags, attributes and other mistakes. 
 
 ### Validator Testing 
 
@@ -287,7 +281,7 @@ Apart from these issues there have been several minor issues. The majority of th
 
 ### Unfixed Bugs
 
-  -  The first columm of the Meditation Group Table shrinked left when I inserted the td.
+- All the bugs were fixed and moved to the section Testing.
 
  [Back to top](#magnolia-tree-yoga-studio)
 
@@ -316,9 +310,7 @@ The live link can be found here - https://angelicaguimaraes.github.io/magnolia_t
 
 ## Media
 
-- All images are downloaded from [Envato Elements](https://elements.envato.com). They are licensed under a broad commercial license that allows them to be used in this project (Named ”P1”). The license allows usage for public purposes.
-
-- [Link to license agreement](https://elements.envato.com/license-terms)
+- All images were downloaded from [Pexels](https://www.pexels.com/).
 
 ## Credits 
 
