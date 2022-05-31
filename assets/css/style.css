@@ -948,7 +948,7 @@ span a {
     
     #contact-form h2 {
         margin-bottom: 10px;
-        font-size: 3.4vw;
+        font-size: 3.8vw;
     }
     
     .label-checkbox {
@@ -968,9 +968,9 @@ span a {
         border: 2px solid rgb(148, 170, 211);
     }
     
-    .send-button {
+    .send-button {        
         color: #ffffff;
-        text-align: center;
+        text-align: center;               
         font-size: 100%;
         background-color: rgb(148, 170, 211);
         border-radius: 2px;
@@ -1010,11 +1010,15 @@ span a {
         background-color: #F7E4E6;
         padding-top: 20px;
     }
+
+    #details-div h2 {
+        font-size: 3.8vw;
+    }
     
     #contact-wrapper {
         background-color: #F7E4E6;
         text-align: center;
-        padding: 30px 30px 30px 30px;
+        padding: 10px 30px 30px 30px;
     }
     
     #contact-div {
@@ -1028,6 +1032,7 @@ span a {
     }
     
     .contact-details h3 {
+        font-size: 4vw;
         color: #D1AA91;
         text-align: center;
         text-decoration: underline;
@@ -1044,6 +1049,21 @@ span a {
     #contact-list {
         width: 80%;
 
+    }
+
+    #map-div {
+        width: 80%;
+        margin-top: 30px;
+    
+    }
+    
+    #gmap {
+        width: 100%;
+    }
+    
+    .contact-details {
+        display: inline-block;
+        vertical-align: middle;
     }
 
 }
