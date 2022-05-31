@@ -230,7 +230,7 @@ In order to make navigation easier between the pages, the navigation bar is fixe
 
 - This section is where the user receives the confirmation that the form has been sent correctly and that it has been received by the Studio.
 
-![Thankyou Section](/assets/images/readme-images/13-screenshot-thankyou-section.png)
+![Thankyou Section](/assets/images/readme-images/screenshot-thank-you-page-new.png)
 
 
 [Back to top](#magnolia-tree-yoga-studio)
