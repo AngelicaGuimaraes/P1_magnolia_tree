@@ -304,7 +304,7 @@ The live link can be found here - https://angelicaguimaraes.github.io/magnolia_t
 
 ## Content 
 
-- All text content on this site has been produced by the author of the project and is fictional. Individuals mentioned do not exist in real life and there is no Nacka Tomato Society.
+- All text content on this site has been produced by the author of the project and is fictional. Individuals mentioned do not exist in real life and there is no Magnolia Tree.
 - The design of the project is inspired by Code Institutes ”Love Running” project. Code has been borrowed from that project, the Footer. It is commented in index.html and styles.css were the the borrowed code is applied. 
 - The icons in the header, contact and registration and footer were taken from [Font Awesome](https://fontawesome.com/)
 
